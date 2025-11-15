@@ -1,6 +1,6 @@
 [📄 View Project Documentation (PDF)](Spotify_Songs_Analytics_Dashboard/notion_spotify.pdf)
 🎧 Spotify Songs & Artists Analytics Dashboard
-
+C:\Users\akshaykumar\OneDrive\Pictures - Copy\Pictures\Screenshots
 A Data-Driven Music Analytics Project in Power BI
 
 <p align="center"> <img src="Images/dashboard_preview1.png" width="800"> </p>
@@ -117,5 +117,6 @@ Linkedin - https://www.linkedin.com/in/akshay-kumar-092410383/
 
 If you find this project useful or interesting, feel free to ⭐ the repository!
 For collaborations, message me anytime.
+
 
 
