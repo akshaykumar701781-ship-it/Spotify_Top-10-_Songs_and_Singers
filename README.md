@@ -77,6 +77,7 @@ Spotify_Songs_Analytics_Dashboard/
 
 
 📄 Project Documentation (PDF)
+[📄 View Project Documentation (PDF)](Spotify_Songs_Analytics_Dashboard/notion_spotify.pdf)
 
 👉 Click here to open the full detailed PDF: 
 📄 View Full Report
@@ -120,6 +121,7 @@ Linkedin - https://www.linkedin.com/in/akshay-kumar-092410383/
 
 If you find this project useful or interesting, feel free to ⭐ the repository!
 For collaborations, message me anytime.
+
 
 
 
