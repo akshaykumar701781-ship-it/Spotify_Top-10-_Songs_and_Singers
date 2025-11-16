@@ -2,7 +2,8 @@
 🎧 Spotify Songs & Artists Analytics Dashboard
 A Data-Driven Music Analytics Project in Power BI
 
-C:\Users\akshaykumar\OneDrive\Pictures - Copy\Pictures\Screenshots
+<img width="1331" height="749" alt="Screenshot 2025-11-14 182356" src="https://github.com/user-attachments/assets/3cbe63e5-86ae-4298-ba8a-3b79fbc93daf" />
+
 🚀 Overview
 
 This project delivers a complete 360° analytics view of Spotify songs & artists using Power BI, Excel, and clean structured datasets.
@@ -71,12 +72,13 @@ Spotify_Songs_Analytics_Dashboard/
 └── README.md
 
 🖼 Dashboard Preview
-C:\Users\akshaykumar\OneDrive\Pictures - Copy\Pictures\Screenshots
+<img width="1331" height="749" alt="Screenshot 2025-11-14 182356" src="https://github.com/user-attachments/assets/213074e2-c08e-44f0-8c7f-89bed0843ccb" />
+
 
 
 📄 Project Documentation (PDF)
 
-👉 Click here to open the full detailed PDF:
+👉 Click here to open the full detailed PDF: 
 📄 View Full Report
 
 🛠 Tools & Technologies
@@ -118,6 +120,7 @@ Linkedin - https://www.linkedin.com/in/akshay-kumar-092410383/
 
 If you find this project useful or interesting, feel free to ⭐ the repository!
 For collaborations, message me anytime.
+
 
 
 
